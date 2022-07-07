@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { text } = require('stream/consumers');
 class Contenedor {
     constructor(archivo) {
         this.archivo = archivo;
